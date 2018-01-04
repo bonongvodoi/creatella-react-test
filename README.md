@@ -19,7 +19,7 @@ Included Features
 
 How to start app
 ----
-Install package via npm
+Install packages via npm
 ```
 npm install
 ```
